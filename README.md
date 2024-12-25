@@ -18,5 +18,7 @@ KC2N supports the following network testing methods:
 KC2N is actively under development. Future updates will include:
 
 • Enhanced logging and analytics.
+
 • Improved scalability for large-scale simulations.
+
 • Modular architecture for adding custom methods.
