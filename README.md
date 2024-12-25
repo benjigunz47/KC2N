@@ -8,10 +8,15 @@ KC2N is a network simulation and testing framework designed for educational and 
 KC2N supports the following network testing methods:
 
 • UDP Flood
+
 • TCP Flood
+
 • ICMP Flood
+
 • DNS Amplification
+
 • Slowloris
+
 • HTTP GET and POST Requests
 
 # Current Status
