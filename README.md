@@ -5,7 +5,6 @@ __About__
 KC2N is a network simulation and testing framework designed for educational and research purposes. It provides a variety of methods to simulate network traffic and explore distributed network behaviors. This tool is intended for use in controlled environments and should not be used for malicious purposes.
 
 __Features__
-
 KC2N supports the following network testing methods:
 
 • UDP Flood
